@@ -1,0 +1,5 @@
+com\example\githubreport\GithubReportApplication.class
+com\example\githubreport\cache\CacheStore.class
+com\example\githubreport\controller\AccessController.class
+com\example\githubreport\service\GitHubService.class
+com\example\githubreport\model\UserRepoAccess.class
